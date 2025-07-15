@@ -1,0 +1,9 @@
+hello: 1
+juan: 1
+this: 1
+is: 1
+a: 1
+simulated: 1
+extract: 2
+step: 2
+complete: 1
